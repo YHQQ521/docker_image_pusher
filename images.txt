@@ -1,4 +1,4 @@
-minio
+bellsoft/liberica-openjdk-debian:17.0.12-10-cds-x86_64
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
