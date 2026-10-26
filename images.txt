@@ -1,5 +1,3 @@
-langgenius/dify-agent-backend:1.18.0
-langgenius/dify-agent-local-sandbox:1.18.0
-redis:6-alpine
-postgres:15-alpine
-nginx:latest
+busybox:latest
+ubuntu/squid:latest
+pgvector/pgvector:pg16
